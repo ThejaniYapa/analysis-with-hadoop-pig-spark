@@ -1,0 +1,308 @@
+Chad	71	84
+Cuba	245	156
+Fiji	405	204
+Gozo	3	8
+Guam	73	188
+Iran	598	187
+Iraq	542	211
+Laos	104	173
+Mali	348	181
+Niue	0	33
+Oman	395	263
+Peru	403	334
+Sark	0	20
+Togo	217	143
+Aruba	91	122
+Benin	160	184
+Burma	430	243
+Chile	723	471
+Congo	292	214
+Egypt	767	323
+Gabon	248	151
+Ghana	555	229
+Haiti	412	237
+Hitra	12	30
+India	342	343
+Italy	887	351
+Japan	690	408
+Kenya	612	410
+Libya	317	159
+Macau	65	169
+Malta	172	395
+Nepal	95	138
+Niger	115	124
+Palau	4	21
+Qatar	528	311
+Samoa	54	86
+Spain	848	267
+Sudan	244	183
+Syria	301	146
+Tibet	2	13
+Tonga	33	66
+Wales	470	448
+Yemen	126	149
+Angola	245	148
+Barawa	16	41
+Belize	47	54
+Bhutan	28	79
+Brazil	1403	471
+Brunei	24	79
+Canada	229	198
+Crimea	0	5
+Cyprus	225	349
+Darfur	0	69
+France	970	526
+Frøya	29	35
+Gambia	133	134
+Greece	418	346
+Guinea	346	168
+Guyana	208	206
+Israel	391	312
+Jersey	129	40
+Jordan	299	170
+Kernow	17	16
+Kosovo	41	42
+Kuwait	573	311
+Latvia	252	270
+Madrid	1	2
+Malawi	455	337
+Mexico	1025	462
+Monaco	6	2
+Norway	651	556
+Orkney	15	30
+Panama	275	215
+Panjab	12	5
+Poland	750	424
+Raetia	1	6
+Rhodes	21	12
+Russia	611	257
+Rwanda	163	125
+Serbia	195	95
+Sweden	1134	559
+Sápmi	69	27
+Tahiti	279	127
+Turkey	409	316
+Tuvalu	16	35
+Uganda	565	261
+Zambia	563	250
+Albania	195	203
+Algeria	521	250
+Andorra	27	179
+Armenia	120	154
+Artsakh	12	9
+Austria	827	553
+Bahamas	31	34
+Bahrain	406	322
+Belarus	150	142
+Belgium	835	553
+Bermuda	159	128
+Bolivia	324	382
+Bonaire	10	31
+Burundi	96	77
+Comoros	17	32
+Corsica	8	5
+Croatia	319	126
+Denmark	864	501
+Ecuador	360	313
+England	1149	447
+Eritrea	16	28
+Estonia	271	350
+Finland	482	636
+Galicia	14	11
+Georgia	155	114
+Germany	1247	523
+Gotland	67	42
+Grenada	229	167
+Hungary	1062	549
+Iceland	282	291
+Jamaica	474	309
+Kabylia	0	2
+Lebanon	195	171
+Lesotho	118	160
+Liberia	154	130
+Mayotte	15	15
+Menorca	32	7
+Moldova	95	143
+Morocco	485	187
+Myanmar	9	11
+Namibia	140	114
+Nigeria	514	193
+Padania	66	18
+Romania	648	341
+Senegal	349	144
+Silesia	24	17
+Somalia	27	109
+Tunisia	516	249
+Ukraine	208	99
+Uruguay	614	321
+Vanuatu	118	114
+Vietnam	231	144
+Abkhazia	36	11
+Alderney	5	27
+Anguilla	14	56
+Barbados	227	214
+Botswana	146	157
+Brittany	13	11
+Bulgaria	526	367
+Cambodia	180	243
+Cameroon	423	213
+Cascadia	10	3
+Chameria	4	0
+China PR	727	325
+Colombia	370	258
+Curaçao	303	181
+DR Congo	354	187
+Djibouti	30	123
+Dominica	129	184
+Eswatini	105	157
+Ethiopia	342	219
+Guernsey	103	43
+Honduras	446	245
+Kiribati	5	68
+Malaysia	612	429
+Maldives	154	136
+Mongolia	47	42
+Pakistan	95	167
+Paraguay	414	283
+Portugal	652	301
+Provence	12	29
+Réunion	64	80
+Saarland	5	18
+Scotland	733	380
+Shetland	38	31
+Slovakia	230	139
+Slovenia	170	151
+Suriname	384	179
+Tanzania	362	321
+Thailand	587	380
+Zanzibar	63	100
+Zimbabwe	302	173
+Andalusia	23	13
+Argentina	1206	478
+Australia	680	317
+Catalonia	65	56
+Felvidék	2	4
+German DR	254	125
+Gibraltar	88	117
+Greenland	75	45
+Guatemala	406	270
+Hong Kong	411	367
+Indonesia	662	440
+Lithuania	175	221
+Manchukuo	0	9
+Mauritius	178	164
+Nicaragua	65	92
+Occitania	18	19
+Palestine	138	94
+Singapore	495	488
+Sri Lanka	125	175
+Venezuela	206	254
+Yemen DPR	3	4
+Ynys Môn	61	28
+Yorkshire	19	7
+Azerbaijan	106	138
+Bangladesh	123	204
+Cape Verde	114	85
+Costa Rica	632	245
+East Timor	14	50
+Guadeloupe	249	158
+Găgăuzia	2	9
+Kazakhstan	122	124
+Kyrgyzstan	81	87
+Luxembourg	154	529
+Madagascar	174	149
+Martinique	343	155
+Mauritania	72	98
+Micronesia	7	18
+Montenegro	74	63
+Montserrat	20	49
+Mozambique	198	153
+San Marino	15	290
+Seychelles	41	90
+Somaliland	7	5
+Tajikistan	122	63
+Uzbekistan	245	85
+Yugoslavia	439	236
+Afghanistan	51	61
+El Salvador	452	350
+Isle of Man	75	28
+Ivory Coast	547	227
+Netherlands	983	429
+New Zealand	334	196
+North Korea	268	99
+Philippines	160	171
+Puerto Rico	78	108
+Saint Lucia	165	157
+South Korea	935	344
+South Sudan	24	26
+Switzerland	689	576
+Tamil Eelam	18	23
+Timor-Leste	5	11
+Burkina Faso	280	204
+Cook Islands	22	88
+Ellan Vannin	18	11
+Kárpátalja	17	9
+Matabeleland	1	0
+Saare County	22	37
+Saint Helena	1	6
+Saint Martin	24	46
+Saudi Arabia	673	333
+Sierra Leone	142	85
+Sint Maarten	32	27
+South Africa	300	169
+Turkmenistan	112	58
+Vatican City	0	2
+Central Spain	1	0
+Faroe Islands	124	247
+French Guiana	126	98
+Guinea-Bissau	92	100
+Isle of Wight	61	30
+Liechtenstein	47	239
+New Caledonia	383	159
+North Vietnam	18	9
+Romani people	1	3
+South Ossetia	7	16
+Székely Land	25	17
+United States	702	432
+Western Isles	27	28
+American Samoa	24	140
+Basque Country	83	35
+Canary Islands	11	3
+Cayman Islands	66	117
+Chagos Islands	7	28
+Chinese Taipei	36	31
+County of Nice	7	5
+Czech Republic	313	129
+Czechoslovakia	549	279
+Western Sahara	10	7
+Åland Islands	47	41
+Iraqi Kurdistan	26	11
+North Macedonia	156	147
+Northern Cyprus	70	13
+Solomon Islands	219	125
+Western Armenia	7	10
+Arameans Suryoye	6	4
+Falkland Islands	14	45
+Northern Ireland	401	532
+Papua New Guinea	108	82
+Vietnam Republic	95	59
+Equatorial Guinea	76	71
+Dominican Republic	118	78
+Parishes of Jersey	11	3
+Antigua and Barbuda	168	145
+Republic of Ireland	490	329
+Trinidad and Tobago	638	298
+U.S. Virgin Islands	11	88
+United Arab Emirates	495	320
+Republic of St. Pauli	10	5
+Saint Kitts and Nevis	212	129
+Bosnia and Herzegovina	178	122
+British Virgin Islands	52	88
+United Koreans in Japan	9	7
+Central African Republic	71	79
+Northern Mariana Islands	11	38
+São Tomé and Príncipe	19	34
+Turks and Caicos Islands	10	31
+Saint Pierre and Miquelon	1	16
+Wallis Islands and Futuna	8	6
+Saint Vincent and the Grenadines	113	67

@@ -1,0 +1,5 @@
+Finland	401
+Switzerland	345
+Northern Ireland	333
+Norway	329
+Luxembourg	318

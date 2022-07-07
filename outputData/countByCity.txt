@@ -1,0 +1,2013 @@
+Morogoro	3
+Le Lamentin	7
+Cibinong	1
+Como	1
+Kleve	1
+Miyagi	1
+Riga	159
+ÅŒita	10
+Harbin	1
+Mutare	1
+Saint-Cloud	1
+Le Gosier	1
+Cascais	1
+Hammarland	7
+Frankfurt am Main	43
+Xinjing	5
+Shizuoka	3
+Portsmouth	1
+Mount Maunganui	1
+MontbÃ©liard	1
+Pune	4
+Moanda	3
+Okayama	1
+Settat	1
+PÃ©geia	1
+Ayutthaya	2
+Zalaegerszeg	4
+Leipzig	63
+Celle Ligure	1
+Villeneuve D'Ascq	1
+Rookley	1
+CornellÃ  de Llobregat	2
+Lagos	110
+Zaragoza	8
+Brandenburg	1
+Majadahonda	1
+Stockton	1
+Lookout	6
+Chester	6
+Murcia	5
+Jurong West	1
+YaoundÃ©	124
+ChambÃ©ry	1
+Zwickau	1
+Antalya	38
+Celje	18
+Quartier d'OrlÃ©ans	2
+Coquimbo	6
+TimiÅŸoara	6
+Fort Worth	1
+Aguascalientes	1
+Yogyakarta	1
+Krubong	1
+LiepÄja	8
+Managua	22
+TsÃ©viÃ©	1
+Rustenburg	34
+Ekaterinburg	4
+GoiÃ¢nia	24
+Shah Alam	39
+MayagÃ¼ez	2
+Debrecen	17
+Oleai	1
+Ipswich	1
+Mitrovica	3
+Chennai	1
+NeuchÃ¢tel	5
+Campinas	1
+Damascus	87
+Beauvais	4
+Tampa	14
+Kapfenberg	1
+Sandy	4
+Berkane	1
+Ramsey	3
+Mufalira	1
+Bacalod	1
+Chongqing	15
+Umtali	1
+Iquitos	1
+Valenciennes	1
+Lleida	1
+PloieÈ™ti	4
+Nursultan	2
+Cadiz	3
+MedellÃ­n	15
+Trnava	29
+Shymkent	6
+Saint-Pierre	39
+Bacolet	3
+Cotonou	109
+Chorzow	2
+Ascoli Piceno	1
+Port Louis	14
+Quetzaltenango	2
+Bata	34
+Titograd	3
+Kristiania	27
+Papeete	68
+Rio de Janeiro	185
+Gisborne	1
+Kingston	239
+Mexico City	224
+Saigon	73
+Margao	22
+Kuwait	1
+Ansan	1
+Ar Ram	1
+London	395
+Douglas	12
+Belek	7
+Creil	1
+Dhahran	1
+Vientiane	48
+Prague	196
+Independencia	1
+Manisa	1
+Port Morseby	4
+Famagusta	5
+Ã‰vian-les-Bains	1
+Liverpool	37
+Terrassa	1
+Mongomo	6
+Asaba	3
+Calabar	8
+Kalmar	1
+Bielefeld	2
+Gera	5
+Geneva	76
+Mantes-la-Ville	2
+Kunshan	1
+Paju	1
+QuerÃ©taro	11
+Saint Kitts and Nevis	1
+Plovdiv	2
+Fredrikstad	1
+ChorzÃ³w	62
+So Kon Po	125
+al-Ram	1
+Landskrona	5
+BeÅ‚chatÃ³w	2
+Dornbirn	1
+Balkanabat	2
+Songkhla	11
+BuzÄƒu	1
+Bergen	16
+Dublin	293
+Simferopol	4
+Cap-HaÃ¯tien	3
+Metz	4
+Pasadena	42
+NeskaupstaÃ°ur	1
+Benghazi	31
+Nicosia	113
+Hiroshima	18
+St. Brelade	4
+Namp'o	1
+Pomona	1
+Gentilly	1
+ÅÃ³dÅº	18
+Faro-LoulÃ©	2
+Pokhara	5
+Martakert	4
+Lima	269
+Asuncion	1
+Burghausen	2
+P'yÅngyang	11
+Lahore	9
+Mar del Plata	16
+Dire Dawa	7
+Sukhumi	1
+Dubnica nad VÃ¡hom	3
+Beira	5
+Paphos	7
+Empoli	1
+PÃ¤rnu	6
+TÃ³rshavn	55
+Resistencia	1
+Tirana	127
+Llagostera	2
+Kotka	2
+Arlington	12
+Gijon	1
+Upper Bethlehem	1
+Rwanda	2
+Narva	3
+Wakayama	1
+Cusco	1
+Santiago de Compostela	1
+Nuuk	2
+Derby	4
+Sofia	237
+Mopti	4
+Wellington	19
+Karaj	2
+Messina	2
+Varginha	1
+Valladolid	6
+Heerenveen	2
+Jerusalem	15
+Strasbourg	6
+Viljandi	5
+Portalegre	1
+EstelÃ­	3
+Machala	4
+Odense	8
+Orange Walk	1
+Banda Aceh	5
+Cairo	264
+Chenzhou	1
+Homel	3
+ÃšstÃ­ nad Labem	1
+Palo Seco	6
+Seattle	22
+LÃ¡risa	3
+Beirut	120
+Basse-Terre	37
+Valencia	36
+Nassau	16
+Ulm	1
+CompiÃ¨gne	1
+KlaksvÃ­k	5
+Qinhuangdao	2
+Qyzylorda	1
+Oliva	2
+Vitrolles	1
+Seeb	9
+Tunis	223
+Port-Gentil	9
+Recife	26
+Aleppo	11
+Ä°zmit	1
+Bombay	5
+Awasa	1
+Molenbeek	1
+Sittard	4
+Solo	4
+Bydgoszcz	10
+Manchester	36
+LÉ™nkÉ™ran	1
+BodÃ¸	1
+Yiwu	1
+Hangzhou	4
+TÃ¢rgu MureÈ™	1
+WÃ¼rzburg	1
+Pristina	10
+New Haven	6
+Ahmedabad	7
+Shetland	25
+Montrouge	3
+Chula Vista	1
+Lower Hutt	2
+Lubumbashi	8
+San Fernando	49
+St. Peter Port	2
+Bucaramanga	1
+Novara	2
+San Carlos	1
+Zhodzina	1
+Albufeira	1
+Bois-Guillaume	1
+Vejle	1
+Vieux Fort	16
+Heredia	3
+Sidoarjo	3
+Alzira	2
+Lviv	4
+Drnovice	2
+GÃ¼zelyurt	3
+Jenin	1
+Piacenza	1
+Port Moresby	33
+Les Avirons	1
+Pedro Juan Caballero	3
+Wronki	2
+Tbilisi	102
+Bayreuth	1
+Cincinnati	1
+Szczecin	9
+Luzern	1
+Zinjibar	5
+Al Ahmadi	2
+Suphan Buri	1
+Tampere	23
+Panama City	176
+Belgrade	190
+Tete	1
+MontrÃ©al	16
+GijÃ³n	13
+Stockholm	80
+St. Sampson	30
+Belize City	3
+Salalah	2
+Colombes	89
+Berrechid	1
+KecskemÃ©t	1
+Montpellier	12
+Frankfurt	1
+EckerÃ¶	6
+Nizhny Novgorod	7
+Carshalton	5
+Skopje	103
+Praia	75
+Grenada	1
+ShkodÃ«r	16
+Bat Yam	1
+Quito	93
+Fresno	3
+Dortmund	30
+New York	17
+DunajskÃ¡ Streda	1
+Hefei	2
+al-Farwaniyah	9
+Las Palmas	16
+VÃ©lez-MÃ¡laga	1
+Pisa	4
+Charleroi	7
+Ponta Delgada	2
+Mandalay	6
+Mekele	1
+Berlin	72
+Misrata	1
+Zwolle	2
+Vitsebsk	1
+Llandudno	2
+La CoruÃ±a	11
+Juba	9
+SÃ£o JosÃ© do Rio Preto	1
+Port Harcourt	11
+Bin Ghashir	2
+Suva	86
+Achna	2
+Gurjaani	1
+Santa Barbara	1
+Alor Setar	1
+Nitra	4
+Barysaw	14
+Avignon	2
+Gangneung	2
+Bedfont	1
+Sousse	22
+Changwon	4
+Secunda	8
+MeknÃ¨s	2
+Reggio di Calabria	2
+Benin City	5
+Philipsburg	10
+KilkÃ­s	1
+Lifou	1
+Riffa	136
+Sucoma	1
+Luanda	121
+Rose Hill	2
+Pereira	6
+Karachi	26
+Lae	22
+Hawassa	10
+al-Ubayyid	1
+Tabriz	7
+Ciudad del Este	13
+Jounieh	1
+AÃ¯n Draham	2
+Aswan	8
+Chililabombwe	12
+Santo Domingo	27
+Brisbane	41
+Odesa	6
+Siliguri	3
+Chemnitz	2
+Trabzon	9
+Hammam Lif	1
+St. John's	93
+Piatra NeamÅ£	4
+Genoa	35
+Njeru	1
+MontÃ©limar	1
+Zhengzhou	1
+Winterthur	1
+Mmabatho	1
+Santa Cruz de Tenerife	3
+Sutton	6
+Ibadan	17
+San SebastiÃ¡n	6
+Chiang Mai	11
+Sandefjord	1
+DÃ¼sseldorf	33
+KalamÃ¡ta	3
+Ã…rhus	13
+Haringey	6
+Cottbus	2
+Belmopan	14
+Fort-de-France	120
+Peralada	1
+Zell am See	1
+Chiba	1
+Benin	1
+Nyon	3
+Leiria	13
+Congo	1
+Texcoco	1
+Islamabad	13
+Valga	4
+Ashkelon	1
+Carouge	1
+â€˜Atele	6
+Plymouth	1
+Nairobi	277
+Selebi-Phikwe	2
+Monrovia	103
+Frederiksted	4
+Palmerstone North	1
+KoÅ¡ice	12
+Sintra	1
+Suita	3
+Gdynia	1
+Rosario	18
+Altenkirchen	1
+UberlÃ¢ndia	4
+Kisumu	5
+Kuopio	3
+Krefeld	2
+Strumica	4
+Piraeus	67
+Le Bouscat	1
+Newark	3
+Pistoia	1
+Brading	6
+Kayseri	3
+Turin	50
+Bordeaux	19
+Nicoya	1
+Piscataway	5
+Anaheim	5
+Malacca City	1
+Halle	6
+Koprivnica	1
+Borisov	2
+Dinard	1
+Guiyang	1
+Birmingham	21
+Navua	1
+Taipei	40
+VlorÃ«	1
+Pasig City	1
+Malabo	63
+Marseille	34
+Phoenix	4
+Ankara	30
+Sauteurs	1
+East Riffa	5
+Armenia	6
+La Paz	116
+Gros Islet	11
+Nijmegen	4
+Saint George's	3
+Haarlem	2
+Puerto la Cruz	17
+Sunderland	11
+Charkiv	1
+Porto Alegre	27
+Maribor	23
+East Hartford	7
+Jena	2
+Pernis	1
+Abidjan	190
+Vicenza	1
+Ciudad Quesada	1
+Ciudad JuÃ¡rez	2
+al-Wakrah	9
+Herzliyya	1
+Rijeka	17
+Misurata	3
+RibeirÃ£o Preto	2
+Saint-Laurent-du-Maroni	1
+Suez	8
+Calcutta	54
+Veliko TÄƒrnovo	1
+Constantine	9
+Curepipe	55
+SÃ¤ve	4
+Chonburi	1
+Lyon	29
+al-Hamriyah	1
+Kunming	11
+Palmira	1
+VÃ³los	2
+Damman	1
+Mons	2
+Milan	69
+Morne-Ã -l'Eau	1
+Paynesville	31
+Nanchang	1
+Couva	22
+Cagliari	8
+Dalhem	9
+Almada	1
+Bridgeview	3
+San NicolÃ¡s de los Garza	1
+MaturÃ­n	8
+Kathmandu	88
+Abeokuta	2
+Batna	1
+Ottawa	2
+Sarajevo	44
+Osijek	12
+Berat	1
+SaarbrÃ¼cken	9
+St Louis	1
+Pointe-Ã -Pierre	1
+Guatemala	172
+ChiÈ™inÄƒu	22
+Norrbacka	1
+Chengdu	17
+Grenville	1
+Salerno	4
+Sydney	99
+Bucharest	230
+Cracow	22
+Saint-Marc	3
+Gagny	3
+Newport	5
+Kufstein	8
+Rajshahi	1
+Vinkovci	1
+Abovyan	2
+Amadora	1
+Lugano	10
+Agilat	1
+Pathum Thani	3
+Bellinzona	1
+Nuremberg	28
+Isa Town	21
+Vincennes	7
+Amiens	3
+Duhok	2
+Levallois-Perret	1
+Funchal	4
+Kuching	13
+Mascara	2
+Hialeah	1
+Fullerton	11
+Reims	3
+Bracknell	4
+Ndola	56
+Curitiba	17
+Alcochete	1
+Cali	14
+Port Elizabeth	35
+Burnaby	14
+Bridgetown	149
+LwÃ³w	3
+Adelaide	36
+Differdange	2
+Oulu	1
+Xi'an	7
+Hermosillo	1
+Teheran	240
+KonÃ©	2
+Toulon	4
+Benguela	13
+Gaborone	113
+Natal	9
+Mali	1
+Mbale	10
+Hougang	3
+Jurong	3
+Pretoria	18
+Toluca	13
+Jericho	1
+Blois	1
+Yerevan	88
+Sharjah	39
+SÃ£o Paulo	83
+Adana	4
+San Isidro de El General	1
+Kazan	12
+Dalian	6
+St. Louis	10
+Djibouti	30
+Albacete	5
+East London	2
+Toyota	10
+Bogor	2
+Manzini	17
+Toronto	53
+Yamoussoukro	1
+St Gallen	1
+Moroni	7
+Villach	3
+Athens	133
+Chiclayo	5
+OlhÃ£o	2
+Fitzwilliam	2
+Kaduna	6
+Miami Gardens	20
+Uganda	1
+Providence	13
+Bad Waltersdorf	1
+Lancy	2
+Suhkumi	22
+JastrzÄ™bie-ZdrÃ³j	1
+Varese	4
+Gisenyi	9
+Mauer	1
+Lusaka	146
+Viborg	1
+Bilbao	32
+SÃ£o TomÃ©	20
+Siu Sai Wan	11
+Prilep	5
+Baku	82
+Cartagena	8
+Senec	1
+Aosta	1
+Oran	11
+Ancona	3
+Cologne	35
+Saint-Gratien	6
+Clairfontaine	1
+New Delhi	56
+Hisor	2
+Dushanbe	42
+Serowe	1
+Groningen	2
+Petaling Jaya	12
+Bahir Dar	9
+Bochum	7
+Mamoutzou	1
+Gzira	1
+Hyderabad	19
+Athersley	1
+Rabat	75
+Nanterre	1
+Jagodina	1
+CuliacÃ¡n	1
+Brikama	1
+N'Djamena	44
+Suwon	27
+San JosÃ©	251
+Barotac Nuevo	3
+Saint-Nazaire	1
+Bursa	8
+Gori	1
+Brussels	259
+Leonora	4
+Essen	2
+Osbourn	4
+Fort de France	5
+Bonneuil-sur-Marne	1
+Qurghonteppa	1
+Mogadishu	17
+Wrexham	93
+BÃ©ja	1
+Thanyaburi	1
+Coventry	1
+Wolverhampton	5
+ChillÃ¡n	1
+Owando	1
+Black Rock	2
+Cheongju	1
+Kansas City	10
+Nagasaki	1
+Attard	206
+Campina Grande	1
+Bangalore	9
+Aarau	1
+Szombathely	3
+Kampala	282
+Limassol	78
+Big Bend	3
+Alverca do Ribatejo	1
+San Pedro	1
+Bocaue	7
+Aveley	3
+Motherwell	1
+Nchalo	1
+Augsburg	5
+Forest	4
+Karlstad	1
+Altona	3
+Sion	6
+Palma de Mallorca	5
+Amanvillers	1
+Anshan	1
+FÃ¨s	6
+Auxerre	2
+Rivera	8
+GdaÅ„sk	13
+Ba	8
+Vantaa	5
+Balzers	3
+Atlanta	12
+el-Gouna	2
+Linden	10
+Karbala	1
+Foxborough	53
+Antwerp	65
+Jaffna	1
+Santa Fe	5
+Dherynia	2
+Llanelli	3
+Esch-sur-Alzette	12
+San Bernardino	1
+Oviedo	9
+Caen	3
+Stenkyrka	4
+Port Vila	51
+Voronezh	1
+Gutavallen	1
+Kowloon	33
+VÃµru	2
+Enugu	2
+Ulsan	11
+Brest	3
+Ashdod	2
+HagÃ¤tÃ±a	3
+St. Ouen	4
+Arequipa	8
+Robina	2
+Sochi	12
+Podgorica	55
+Eupen	1
+ParalÃ­mni	8
+Seville	55
+GÃ¸ta	2
+Paroi	4
+Uzhhorod	1
+Osorno	1
+Hwaseong	5
+Hemse	3
+Pula	3
+Jwaneng	1
+Ballarat	1
+Dammam	47
+Dededo	17
+Kertepe	1
+Mamoudzou	1
+Hebron	3
+Dordrecht	2
+Johor Baharu	4
+Reutlingen	2
+Poissy	1
+Kobe	19
+ThiÃ¨s	3
+Swansea	26
+Tauranga	1
+Liberec	4
+Ciudad Madero	1
+Ã…land	16
+Siena	1
+Villemomble	1
+al-Ain	23
+Al Rayyan	1
+NyÃ­regyhÃ¡za	3
+Frankfurt an der Oder	2
+Donets'k	10
+Durban	66
+Landover	2
+DanlÃ­	1
+Maldonado	8
+Harrogate	1
+Addis Abeba	208
+Lecce	4
+WodzisÅ‚aw ÅšlÄ…ski	1
+ChÃ¢teauroux	1
+Drammen	1
+6th of October City	5
+Nishinomiya	1
+Garoua	4
+East Cowes	4
+Al Ram	4
+Zagreb	112
+Manila	53
+La Courneuve	6
+BayamÃ³n	27
+BraÅŸov	2
+Kingstown	59
+Trivandrum	9
+Matsumoto	2
+Boulari	11
+Kuala Lumpur	589
+Herning	4
+Agadir	21
+Santos	1
+Gothenburg	82
+KayÃ¨s	1
+Bloemfontein	35
+North Shore	19
+Senftenberg	1
+ChiÅŸinÄƒu	53
+Salt Lake City	1
+St. George's	97
+LeÃ³n	27
+Jinja	14
+Zhongshan	2
+Davidson	1
+Asmara	25
+PortimÃ£o	1
+Ziguinchor	7
+Tamale	10
+Hanover	41
+Å ibenik	1
+Shanghai	20
+Tiraspol	7
+Khobar	12
+Naruto	1
+Tempe	2
+Crewe	2
+Kutaisi	2
+San Luis PotosÃ­	3
+Solna	237
+Santiago	290
+Port Said	15
+Changsha	9
+ZouÃ©rat	1
+Arbil	16
+Olsztyn	1
+L'viv	18
+Ajaccio	6
+Mazatenango	5
+Teresina	2
+Auckland	76
+Kenitra	2
+Seoul	291
+Kent	1
+Bourj Hammoud	1
+Ã‰vry/Bondoufle	4
+Copenhagen	327
+Coquitlam	1
+Saint-Joseph	1
+Grodzisk Wielkopolski	1
+Braga	13
+Ismailia	22
+Grand Bay	1
+Shiraz	1
+Baie-Mahault	1
+Watford	3
+Douala	32
+Ambato	6
+Tacna	6
+Pirae	11
+Krasnodar	8
+Incheon	16
+PÃºla	1
+Christchurch	11
+Vila Real de Santo AntÃ³nio	5
+Leeuwarden	1
+Arad	5
+Sur	1
+Khartoum	110
+Ã“bidos	1
+Bishan	4
+Frisco	11
+Portland	5
+Aberdeen	15
+Kuusankoski	1
+MaladzeÄna	1
+Burton on Trent	1
+Ashgabat	32
+UherskÃ© HradiÅ¡tÄ›	3
+Santa Clara	8
+VÃ¤skinde	9
+Larnaca	57
+Sevilla	1
+Kochi	2
+Burnley	1
+Panama	1
+Villa Tunari	1
+Dar es Salaam	217
+Molde	2
+Vigo	15
+Xewkija	6
+Al Ain	44
+Luanshya	1
+XuÃ§and	1
+GÃ¤vle	1
+Tuzla	1
+Annaba	29
+Colombo	68
+Wuhan	15
+Prishtina	3
+Guangzhou	42
+Beer Sheva	3
+Sikasso	8
+Houmet Souk	1
+Stuttgart	44
+Patras	3
+Pescara	6
+VÃ¡gur	1
+EskiÅŸehir	4
+Buriram	5
+Susupe	2
+Koper	4
+Ruse	1
+SÅ‚upsk	2
+Sedan	1
+Horsens	1
+Bitam	1
+Parramatta	3
+MarijampolÄ—	5
+Askeran	5
+Luque	12
+Saitama	43
+Salvador	33
+Aachen	2
+Mumias	7
+Yacuiba	1
+Palembang	5
+Monterrey	34
+Kalutara	1
+ReykjavÃ­k	181
+Hesperange	10
+Port au Prince	2
+Gosford	1
+al-Salmiya	1
+Buraidah	1
+Chantilly	1
+Elbasan	15
+Moruleng-Saulspoort	14
+Caracas	37
+Kaliningrad	6
+Bauchi	4
+Alajuela	16
+Fort Pierce	1
+St. Peter	13
+Ingolstadt	2
+Breda	1
+Algiers	109
+Erfurt	6
+Warri	1
+Bushbuckridge	2
+Naples	34
+Samut Sakhon	1
+Gwangju	10
+Omdurman	36
+Schwaz	2
+Maputo	130
+Warsaw	131
+La Marsa	1
+Salisbury	23
+Istanbul	142
+Medan	5
+Masvingo	2
+NoumÃ©a	109
+Sucre	7
+SÃ©gou	12
+Kyoto	3
+Sainte-Marie	1
+Mannheim	3
+Harrison	23
+Sankt PÃ¶lten	3
+ZlatÃ© Moravce	1
+Bekasi	1
+Sund	4
+Sivas	1
+Slough	3
+Tashkent	104
+Cork	3
+Castries	62
+Cayenne	59
+Dunedin	6
+Chuncheon	1
+Cabinda	8
+Thiruvananthapuram	12
+Split	20
+Urziceni	1
+Vittel	1
+Ghent	3
+Bizerte	7
+Enfield	10
+Morelia	2
+Saint-Paul	6
+Brzeszcze	1
+Denizli	2
+Lauderhill	1
+Jacksonville	6
+Le Mans	4
+St. Petersburg	22
+Semarang	1
+Akranes	3
+BiaÅ‚ystok	1
+Cluj	7
+Ivory Coast	2
+Yishun	2
+Roseau	64
+Montego Bay	36
+Belle Vue Maurel	3
+Minsk	70
+NjarÃ°vÃ­k	1
+NezahualcÃ³yotl	5
+Versailles	2
+GyÅ‘r	8
+ValparaÃ­so	11
+Issy-les-Moulineaux	2
+Fukuroi	7
+San Pedro de AlcÃ¡ntara	1
+Carson	34
+Cesena	3
+Lilongwe	78
+Doha	459
+Udine	12
+MalÃ©	70
+Kharkiv	11
+Niger	1
+Arles	1
+Marrakech	53
+Mainz	3
+Ãgueda	1
+Grenoble	1
+DurrÃ«s	2
+Tangiers	8
+Mendoza	19
+Falmouth	5
+The Hague	3
+Dhaka	103
+Ventspils	3
+Byton	1
+Ã‰vora	1
+Tangier	5
+Bradford	1
+Santa Ana	10
+CernÄƒuÅ£i	1
+Munich	34
+Nice	15
+Sidon	20
+Wels	1
+Paisley	2
+Baltimore	6
+High Point	3
+KozÃ¡ni	1
+Potsdam	2
+Germiston	1
+La Ceiba	5
+Guwahati	4
+Shanklin	3
+Freshwater	3
+Mapou	11
+Queretaro	1
+Girona	2
+Bischofshofen	1
+Barcelos	1
+Perth	4
+Atteridgeville	9
+Saulspoort	1
+Port-au-Prince	194
+Saint John	1
+Maracaibo	28
+Los Angeles	157
+IaÈ™i	1
+Xianghe	1
+SzÃ©kesfehÃ©rvÃ¡r	6
+Rakvere	1
+Winnipeg	3
+Valera	2
+Baghdad	126
+Nagoya	5
+Marsa	1
+Nonthaburi	3
+Ritzing	1
+Taunusstein	1
+LogroÃ±o	3
+Thá»§ Dáº§u Má»™t	1
+FuglafjÃ¸rÃ°ur	2
+Portoviejo	5
+Modena	3
+Kurunegala	1
+Bruges	13
+Chicago	44
+Quetta	1
+Pak Kret	1
+Visby	19
+Vitoria-Gasteiz	2
+West Palm Beach	1
+ZÃ¼rich	83
+Dolisie	1
+Kumasi	62
+Franceville	25
+Ettelbruck	2
+Newcastle	21
+Maseru	102
+Shenyang	10
+Hempstead	1
+Kumamoto	2
+Villavicencio	1
+Zaporizhia	1
+Wad Madani	6
+North Sound	12
+Anyang	2
+Halmstad	7
+Reading	1
+PlzeÅˆ	6
+BrasÃ­lia	16
+Loja	1
+Taâ€™if	5
+Nausori	17
+Oakland	18
+Zambia	1
+Karksi-Nuia	1
+Borovo	1
+SandavÃ¡gur	1
+Espargos	1
+KlaipÄ—da	3
+PloieÅŸti	6
+Jeonju	12
+Abha	3
+ChÅfu	8
+Yangon	3
+Bandung	3
+Rotherhithe	3
+Cheonan	4
+Lalitpur	2
+Ossett	2
+Koror	3
+Cape Town	36
+ParanavaÃ­	1
+San MartÃ­n	1
+KruÅ¡evac	1
+Kilmarnock	4
+Roche Caiman	2
+TrÃ­kala	1
+Lokeren	1
+Saint Paul	2
+Brno	12
+Seremban	2
+Tosu	1
+Antigua Guatemala	2
+Rouen	13
+PÃ©cs	1
+Volgograd	7
+Bromley	4
+Hershey	1
+Dundo	3
+Rhodes	3
+Tianjin	11
+Getafe	4
+Helsingborg	8
+Aberdare	1
+Gurgaon	2
+Rome	71
+Columbus	13
+Berne	90
+Al Farwaniyah	2
+Badajoz	2
+Giurgiu	1
+Subotica	2
+GazimaÄŸusa	4
+Brescia	5
+San Salvador	176
+Calama	1
+Salahaddin	2
+Enschede	1
+Rostock	9
+Tel Aviv	7
+Parma	8
+Chingola	9
+Providenciales	6
+Maun	1
+San Ignacio	2
+LourenÃ§o Marques	1
+Matrei in Osttirol	1
+Salzburg	20
+Blida	34
+Trujillo	4
+Avarua	10
+Bobo Dioulasso	19
+Kinshasa	131
+Niamey	84
+al-Ramm	3
+Isle of Wight	16
+Graz	26
+Bangkok	427
+Belle Vue Harel	1
+Konya	6
+Verona	8
+Altach	2
+Ljubljana	62
+Genk	6
+Tetovo	1
+Ulan Bator	2
+Bujumbura	47
+Scarborough	2
+Blackburn	5
+DaÅŸoguz	2
+Kuantan	6
+BouakÃ©	29
+Dallas	26
+Willemstad	139
+San Juan	36
+Viry-ChÃ¢tillon	5
+Sapporo	10
+MÃ¶nchengladbach	7
+Muharraq	13
+SÃ£o LuÃ­s	4
+Saint-Ouen	11
+Wan Chai	1
+Umm al-Fahm	1
+Arnos Vale	4
+GrÃ¶dig	2
+Stavanger	6
+Oakfield	1
+KÃ¶nigsberg	2
+Les Abymes	34
+Leeds	6
+Kenya	1
+Mabopane	1
+Mashhad	2
+Trieste	5
+GÅ¼ira	31
+Marignane	1
+Brazzaville	133
+Linz	12
+Damanhur	3
+Alicante	14
+Jomala	9
+Cornwall	7
+Vila-real	3
+Padua	2
+Costa Mesa	1
+Oradea	1
+KavÃ¡la	3
+Ludwigshafen	4
+Lucerne	18
+Leverkusen	8
+Kiev	1
+CÃ¡diz	5
+Bangui	33
+al-Ahsa	1
+BrÃ¸ndby	8
+FÃ¥rÃ¶sund	7
+St. John	2
+Mikkeli	1
+Albuquerque	3
+La Serena	6
+Abuja	21
+Zenica	50
+San Pedro Sula	84
+Maisons-Alfort	1
+Sibiu	3
+Olomouc	13
+Antofagasta	5
+Seogwipo	6
+Equatorial Guinea	1
+Georgetown	105
+Nouakchott	91
+Samara	6
+El Progreso	1
+Sidi Moussa	1
+Ho Chi Minh City	39
+Le Havre	7
+Dieppe	1
+Netanya	6
+Huddersfield	1
+Foshan	1
+Bratislava	97
+Pointe-Ã -Pitre	15
+GÃ¤llivare	7
+Cikarang	4
+Greensboro	1
+Surabaya	4
+George Town	62
+Elche	10
+Mwanza	37
+Beersheba	3
+Kakamega	7
+Guingamp	2
+XÃ¡nthi	1
+Road Town	28
+Jerez de la Frontera	5
+RadÃ¨s	60
+Mariehamn	2
+Guadalajara	37
+Tokyo	90
+Puerto CortÃ©s	3
+VÃ¤sterÃ¥s	4
+St. Martin	8
+Reggio Emilia	2
+Novi Sad	9
+Nizwa	2
+NorrkÃ¶ping	13
+Nantes	19
+Wuppertal	1
+Madras	9
+Dili	4
+Bad Erlach	2
+Puerto Ordaz	16
+Barquisimeto	7
+Gifu	1
+Rohrbach an der Lafnitz	1
+Bissau	68
+NiÅ¡	2
+Latacunga	1
+Greenock	1
+Burgas	8
+Titova Mitrovica	1
+CÃ¡ceres	1
+Banjul	79
+La Plata	9
+Jubail	1
+Lahti	7
+Bucheon	1
+Sandy City	1
+KeflavÃ­k	1
+Roodepoort	2
+Surakarta	4
+Lubango	10
+Martuni	4
+TorreÃ³n	3
+Sliven	1
+Trondheim	8
+Turku	15
+New Cairo	2
+Pointe-Noire	31
+San Marcos	1
+Stoke-on-Trent	3
+Blackpool	1
+Apia	99
+Kuressaare	6
+Irvine	3
+Jakobstad	1
+Madrid	82
+Cochin	12
+Peshawar	10
+Catania	2
+Rize	1
+Daejeon	16
+Look Out	3
+Nilphamari Sadar	1
+Yona	10
+Alderney	1
+Sohar	1
+Balchik	1
+Freiburg	7
+ViÃ±a del Mar	37
+BogotÃ¡	85
+Basseterre	115
+Nova Gorica	2
+SalÃ©	1
+Glasgow	322
+Szolnok	1
+Xiaogan	1
+Clairefontaine-en-Yvelines	2
+AlmerÃ­a	1
+Temuco	7
+San Francisco	12
+Bulawayo	33
+Windhoek	111
+Bondoufle	2
+Martigues	1
+Cebu City	1
+Kielce	3
+Wiesbaden	1
+Canberra	16
+Glendale	13
+Grassau	1
+Puebla	16
+Nuku'alofa	4
+Cartago	1
+Deventer	1
+Freetown	121
+Sfax	17
+Wolfsburg	3
+ColÃ³n	1
+Iquique	1
+Ozolnieki	1
+Charlotte	7
+Kretinga	1
+Witbank	7
+Addis Ababa	19
+Saltvik	3
+Rieti	1
+JoÃ£o Pessoa	1
+Aarhus	2
+Morphou	5
+Manizales	3
+Goyang	4
+Iloilo City	3
+Johannesburg	108
+Porto Novo	1
+Tehran	4
+Santander	7
+Samarqand	2
+Teplice	20
+Braddan	1
+Charlotte Amalie	8
+Zhuhai	2
+Beuthen	1
+Jakarta	239
+Hohhot	2
+Salta	4
+Montevideo	350
+Waregem	1
+Anif	1
+La Calera	1
+Honiara	66
+CÃºcuta	1
+Narbonne	1
+Stepanakert	8
+Rimini	1
+Cremona	1
+Conakry	132
+Izmir	37
+Gama	1
+Cordoba	1
+Libreville	180
+Bakau	43
+Jaffa	40
+MÃ©rida	11
+Philadelphia	13
+Coimbra	10
+Marigot	9
+Luxembourg	186
+Colonia	1
+Ha'ateiho	2
+Shenzhen	5
+FlorianÃ³polis	2
+Lisbon	116
+Sheffield	15
+Chaves	2
+Bastia	4
+CastellÃ³n de la Plana	2
+Bacolod	15
+Bodmin	1
+Suzhou	2
+Salonica	28
+Choa Chu Kang	1
+Granada	10
+Tlemcen	5
+Anglesey	20
+Rangoon	77
+Penafiel	1
+Porto-Novo	10
+Ipoh	52
+BakÄ±xanov	1
+Florence	37
+Oeiras	48
+David	1
+Irbid	19
+Kashima	8
+Marbella	5
+Middlesbrough	7
+CÃ³rdoba	27
+Zanzibar	61
+Nakuru	8
+Ã–rebro	4
+Samsun	1
+Oslo	326
+Lens	21
+Arima	19
+San Salvador de Jujuy	2
+Nanjing	5
+Brentford	3
+Tegucigalpa	137
+Talcahuano	1
+Sulaymaniyah	2
+Bendigo	1
+LomÃ©	138
+Latakia	5
+Oyem	7
+Buenos Aires	316
+Mission Viejo	4
+Vieux-Habitants	2
+Fos-sur-Mer	1
+Luxembourg City	9
+Jiangyin	1
+Ã–stersund	28
+MladÃ¡ Boleslav	2
+Dnipropetrovs'k	3
+Saransk	5
+VisÃ©	1
+Kaohsiung	11
+Hong Kong	5
+Thanh HÃ³a	1
+Manama	63
+Torres Novas	1
+Cape Coast	1
+Pleven	1
+Al-Khader	1
+Chungju	1
+Kerkrade	1
+Gianyar	2
+Sendai	2
+Niigata	14
+Morocco	2
+Thimphu	16
+Helsinki	251
+Saint-Leu-la-ForÃªt	10
+Nadi	5
+Mufulira	2
+Clermont-Ferrand	1
+Lautoka	23
+Kasarani	1
+Guinea	1
+Hartberg	3
+Bandar Seri Begawan	10
+Sekondi	8
+Le Touquet-Paris-Plage	1
+Luganville	10
+Cochabamba	33
+Klagenfurt	23
+Al Wakrah	3
+Saint-Ã‰tienne	22
+Mahajanga	4
+Tula	1
+Riyadh	211
+Shrewsbury	1
+Lille	3
+Uyo	9
+Stara Zagora	2
+Casablanca	121
+Cuenca	9
+Osaka	22
+Tendo	1
+Pontiac	6
+Vancouver	11
+Acarigua	1
+Phnom Penh	83
+Antibes	1
+New Jersey	2
+Craiova	7
+Rennes	7
+Chittagong	11
+Dundee	4
+Mielec	4
+Khimki	4
+Johor Bahru	3
+Alexandria	73
+Neiva	1
+Aveiro	8
+Prievidza	1
+Barinas	7
+NÃ®mes	2
+Tripoli	140
+Selayang	1
+Verviers	2
+AkdoÄŸan	3
+Az Zawiyah	1
+Thonon-les-Bains	1
+Coffs Harbour	10
+Spanish Town	1
+Masan	1
+Monterey Park	5
+Kolkota	1
+Long Beach	1
+Cosenza	1
+Yverdon-les-Bains	1
+Kaiserslautern	16
+Stettin	1
+Hartford	2
+Limeil-BrÃ©vannes	1
+GÉ™ncÉ™	3
+Uitvlugt	2
+Cocoa Beach	1
+Orlando	17
+Viseu	3
+Gagra	6
+St. Clement	7
+Salamanca	4
+Monaco	5
+Richmond	3
+Lausanne	45
+Edmonton	22
+Seekirchen am Wallersee	1
+Kallang	182
+VaraÅ¾din	8
+Ostrowiec ÅšwiÄ™tokrzyski	4
+Jinan	9
+Uccle	1
+PoznaÅ„	30
+Katowice	7
+Bologna	30
+Kota Baharu	1
+ConcepciÃ³n	10
+Freetowm	2
+KÃ³pavogur	3
+Kelsterbach	1
+PreÅ¡ov	1
+Foggia	1
+Antananarivo	93
+HÃºsavÃ­k	1
+Serravalle	81
+Keetmanshoop	1
+Valence	2
+Toyama	1
+Rhodos	21
+Sinsheim	2
+Muscat	239
+CovilhÃ£	2
+Bogota	1
+ÄŒeskÃ© BudÄ›jovice	1
+Fukuoka	3
+Fardhem	8
+Rancagua	13
+PaysandÃº	9
+Kassala	6
+Vaduz	77
+Orapa	1
+Edinburgh	18
+Kranj	1
+Melbourne	65
+Palermo	21
+Marcory	1
+Beit She'an	1
+Jalan Besar	1
+Palmerston North	1
+Jerez	1
+Belo Horizonte	37
+Port Sudan	3
+Wattens	2
+Sant JuliÃ  de LÃ²ria	56
+Saint Petersburg	1
+GuimarÃ£es	8
+LiÃ¨ge	32
+Vienna	336
+Bristol	2
+LefkoÅŸa	5
+Port el-Kantaoui	1
+Arica	13
+Nam Äá»‹nh	2
+Cutral CÃ³	1
+Pontevedra	1
+Lobamba	59
+Tamuning	13
+St. Gallen	29
+Detroit	2
+Phokeng	9
+Grouville	7
+Dnipro	1
+Torrance	4
+Pori	1
+Bejaia	1
+Bishkek	35
+Saint-Louis	1
+Dresden	17
+Peel	3
+Malang	2
+Bergamo	4
+Butare	7
+Obeid	1
+Livorno	1
+Innsbruck	22
+Lobatse	6
+Terni	1
+KÃ©nitra	1
+Perugia	6
+Kabul	8
+Kingston upon Hull	1
+Guayaquil	87
+Leningrad	3
+Banja Luka	2
+Tursunzoda	3
+South Geelong	1
+Karl-Marx-Stadt	9
+Tuxtla GutiÃ©rrez	3
+Macoya	34
+Soweto	1
+Budapest	387
+Olmaliq	1
+Singapore	176
+Estoril	3
+Hamburg	52
+Bry-sur-Marne	2
+Palo Alto	13
+Napier	1
+Utrecht	8
+Franconville	6
+Fort Lauderdale	28
+Duisburg	6
+Erbil	1
+MahÃ©	2
+JÃ¶nkÃ¶ping	1
+West Bay	2
+Monastir	20
+Beijing	88
+Blairmont	2
+SetÃºbal	6
+Kota Bharu	3
+Gennevilliers	2
+MaceiÃ³	2
+Batumi	1
+San Antonio	9
+Kematen	1
+Zanzibar Town	1
+KorÃ§Ã«	1
+Al-Jahra	1
+Castletown	3
+Dubai	137
+Sandviken	3
+Naypyidaw	1
+Paya Rumput	7
+Tartu	3
+Kaunas	68
+Blantyre	184
+Umlazi	1
+Fortaleza	17
+Moquegua	1
+Limbe	4
+Parmaribo	3
+Rostov-on-Don	7
+TÃ©touan	3
+Qarshi	1
+Bremen	10
+Azogues	1
+Hamilton	87
+Barcelona	77
+Malmberget	5
+Khujand	2
+Amsterdam	181
+Eskilstuna	1
+Senlis	1
+TrenÄÃ­n	1
+AsunciÃ³n	189
+CrÃ©teil	6
+Port of Spain	238
+KyÃ¯v	91
+Harare	129
+Ras al-Khaimah	1
+Houston	50
+PerivÃ³lia	1
+Molepolole	4
+Kimberley	1
+Cary	4
+Mumbai	7
+Arusha	30
+Nigeria	1
+Speers Point	1
+BihaÄ‡	1
+Montecatini Terme	2
+Santa Cruz	32
+La Chaux-de-Fonds	1
+La LÃ­nea de la ConcepciÃ³n	3
+Eschen	12
+Tours	1
+Ernakulam	14
+Melun	4
+Schwechat	1
+St. Croix Island	3
+Albano Laziale	2
+San CristÃ³bal	53
+UÅ¾ice	1
+Zomba	13
+Gelsenkirchen	30
+Ulaanbaatar	15
+Bradenton	2
+Tallinn	186
+EbebiyÃ­n	6
+Sankt Veit an der Glan	1
+Miami	92
+Kennesaw	1
+Saint-Denis	111
+Brasilia	1
+Southampton	3
+Washington	58
+Homs	1
+Rotterdam	131
+Alanya	1
+Lesotho	2
+Basra	8
+San Pedro del Pinatar	1
+Duncanville	1
+WoumÃ©	1
+Wroclaw	1
+Opole	1
+P'yongyang	44
+Bari	15
+Astana	27
+Almaty	45
+Huelva	4
+Las Vegas	2
+Quilmes	1
+Murska Sobota	3
+St. Helier	24
+Mafikeng	6
+Estepona	2
+Savanna-la-Mar	1
+Machakos	20
+Akureyri	2
+Bastia Umbra	1
+HyÃ¨res	3
+Barranquilla	53
+Mohammedia	1
+Aden	12
+Basel	102
+Avellaneda	23
+New Britain	4
+Campo Grande	5
+Aubervilliers	1
+Magdeburg	9
+Hrodna	1
+Razgrad	1
+Andorra la Vella	9
+Nelspruit	23
+Mbabane	37
+Kumanovo	1
+Cowes	6
+Cap-d'Ail	2
+Ouagadougou	162
+Boulogne-Sur-Mer	1
+Paramaribo	162
+San Jose	8
+Port Erin	2
+Ostrava	14
+Irapuato	5
+Aalborg	7
+al-Mahalla al-Kubra	4
+Bangor	2
+Ethiopia	2
+Zapopan	1
+Aix-en-Provence	2
+Dreux	1
+Heraklion	10
+Awassa	1
+Haifa	19
+Milton Keynes	2
+East Rutherford	68
+DomÅ¾ale	1
+MÃ¡laga	17
+AgÃ­a NÃ¡pa	2
+Belfast	295
+Nanning	9
+The Valley	25
+Talca	1
+Macau	45
+Zarqa	8
+Guimaraes	3
+Saint-Ouen-l'AumÃ´ne	2
+Capesterre-Belle-Eau	2
+Kayes	3
+Tilburg	2
+Ta'if	22
+Addu City	6
+al-Rayyan	2
+WrocÅ‚aw	25
+Gwelo	1
+Belle Vue	1
+Petah Tikva	3
+Chamazi	1
+Mindelo	2
+Vilnius	69
+Ã‰vreux	2
+Penrith	1
+Cannes	7
+Accra	172
+La Chorrera	5
+Oranjestad	56
+JÅ«rmala	1
+Nakhon Ratchasima	6
+Babahoyo	1
+Háº£i PhÃ²ng	2
+Cleveland	6
+Costebelle	1
+Mhlume	2
+Å½ilina	21
+SauÃ°Ã¡rkrÃ³kur	1
+Aue	1
+Ismaila	2
+Libya	1
+Daegu	18
+Jeddah	73
+Tottori	1
+Santiago de los Caballeros	6
+Gibraltar	34
+Hanoi	89
+Nashville	8
+Phuket	11
+San Diego	35
+Belize	3
+Nur-Sultan	3
+al-Hasa	1
+FelcsÃºt	1
+Guatemala City	5
+Villeneuve-d'Ascq	10
+Oxnard	1
+Moscow	220
+Namibia	1
+Rayyan	18
+FÃ¼rth	2
+Amman	218
+Vaasa	2
+IÅ‚awa	1
+Troyes	1
+Salon-de-Provence	1
+Radom	3
+Mondercange	1
+TÃ¡chira	1
+Chon Buri	1
+Ramat-Gan	127
+Mersin	1
+Onomichi	4
+Dakar	193
+Matsuyama	3
+Busan	24
+Groznyy	1
+Baiersbronn	1
+Wakefield	1
+Faro	31
+FinstrÃ¶m	3
+Commerce City	6
+Taranto	1
+Kouvola	1
+Corbeil-Essonnes	2
+Sandur	2
+Moruleng	13
+Dodoma	10
+Toulouse	20
+Kyrenia	10
+Hawalli	2
+Sannat	5
+Mombasa	26
+Mzuzu	13
+ConstanÅ£a	12
+Francistown	9
+Centre de Flacq	2
+Campobasso	1
+RiviÃ¨re-Pilote	13
+Esbjerg	4
+Salmiya	1
+Congo DR	1
+Cardiff	182
+Veracruz	3
+Gaziantep	1
+Biel	1
+Kira	3
+SiÃ³fok	3
+Jessore	3
+Leicester	4
+Gossau	1
+Eindhoven	35
+Oruro	4
+Jablonec nad Nisou	1
+Sana'a	48
+Diriamba	7
+Thun	1
+Limerick	2
+Ciudad Guayana	2
+Longjumeau	1
+St. Lawrence	7
+Rybnik	1
+Toftir	37
+Kaolack	1
+Bathurst	2
+Manaus	13
+Kitwe	31
+BorÃ¥s	6
+Bamako	173
+CuiabÃ¡	8
+Kano	9
+Offenbach am Main	3
+Seongnam	1
+Uddevalla	3
+Arnhem	10
+Hunedoara	1
+Breslau	5
+Potchefstroom	1
+Smederevo	1
+Obuasi	2
+Wollongong	2
+Kuwait City	337
+Acapulco	1
+Taipa	3
+Cebu	1
+HÃ¶fn	1
+Calicut	2
+Gangtok	1
+Lubin	3
+Cluj-Napoca	1
+Nottingham	6
+Jablonec nad Nisou nad Nisou	2
+Abu Dhabi	235
+Gweru	1
+Ciudad Victoria	1
+VÃ¤xjÃ¶	2
+Juticalpa	1
+Varna	9
+Haskovo	1
+Le Petit-Quevilly	3
+Rifu	6
+BelÃ©m	4
+Chalcis	1
+Avellino	1
+ZahlÃ©	3
+Maia	1
+el-Jadida	2
+PÅ‚ock	2
+Porto	61
+Paris	172
+Karlsruhe	7
+West Bromwich	3
+Mitsamiouli	11
+Meyrin	1
+Ioannina	4
+Kohtla-JÃ¤rve	1
+MalmÃ¶	43
+Bethlehem	1
+Boca Raton	3
+Kigali	143
+Saint Croix	2
+Victoria	80
+Maracay	1
+Sleman	3
+Piura	3
+GabÃ¨s	1
+Paola	4
+Polokwane	37
+Zabrze	6
+Nelspriut	1
+Havana	78
+Denver	9
+Windsor	1
+Phang Nga	1
+LuleÃ¥	1
+Burkina Faso	1
+Saint-Brieuc	2
+Yokohama	38

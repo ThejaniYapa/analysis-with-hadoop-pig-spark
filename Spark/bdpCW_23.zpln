@@ -1,0 +1,407 @@
+﻿{
+  "paragraphs": [
+    {
+      "text": "%pyspark\n\nimport pyspark.sql.functions as f\n#loading data\ndf = spark.read.format(\"csv\").option(\"header\", \"true\").load(\"/data/results.csv\")\ndf.show()\ndf.groupBy(\"tournament\").count()\n\n#percentage of types of tournaments held\ndfg=df.groupBy(\"tournament\").count()\ntt=df.count()\ndfg.withColumn('percent', (f.col('count')/tt))#.show()",
+      "user": "anonymous",
+      "dateUpdated": "2021-01-04T17:06:49+0000",
+      "config": {
+        "colWidth": 12,
+        "fontSize": 9,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "+----------+----------------+---------+----------+----------+----------+---------+-------------------+-------+\n|      date|       home_team|away_team|home_score|away_score|tournament|     city|            country|neutral|\n+----------+----------------+---------+----------+----------+----------+---------+-------------------+-------+\n|1872-11-30|        Scotland|  England|         0|         0|  Friendly|  Glasgow|           Scotland|  FALSE|\n|1873-03-08|         England| Scotland|         4|         2|  Friendly|   London|            England|  FALSE|\n|1874-03-07|        Scotland|  England|         2|         1|  Friendly|  Glasgow|           Scotland|  FALSE|\n|1875-03-06|         England| Scotland|         2|         2|  Friendly|   London|            England|  FALSE|\n|1876-03-04|        Scotland|  England|         3|         0|  Friendly|  Glasgow|           Scotland|  FALSE|\n|1876-03-25|        Scotland|    Wales|         4|         0|  Friendly|  Glasgow|           Scotland|  FALSE|\n|1877-03-03|         England| Scotland|         1|         3|  Friendly|   London|            England|  FALSE|\n|1877-03-05|           Wales| Scotland|         0|         2|  Friendly|  Wrexham|              Wales|  FALSE|\n|1878-03-02|        Scotland|  England|         7|         2|  Friendly|  Glasgow|           Scotland|  FALSE|\n|1878-03-23|        Scotland|    Wales|         9|         0|  Friendly|  Glasgow|           Scotland|  FALSE|\n|1879-01-18|         England|    Wales|         2|         1|  Friendly|   London|            England|  FALSE|\n|1879-04-05|         England| Scotland|         5|         4|  Friendly|   London|            England|  FALSE|\n|1879-04-07|           Wales| Scotland|         0|         3|  Friendly|  Wrexham|              Wales|  FALSE|\n|1880-03-13|        Scotland|  England|         5|         4|  Friendly|  Glasgow|           Scotland|  FALSE|\n|1880-03-15|           Wales|  England|         2|         3|  Friendly|  Wrexham|              Wales|  FALSE|\n|1880-03-27|        Scotland|    Wales|         5|         1|  Friendly|  Glasgow|           Scotland|  FALSE|\n|1881-02-26|         England|    Wales|         0|         1|  Friendly|Blackburn|            England|  FALSE|\n|1881-03-12|         England| Scotland|         1|         6|  Friendly|   London|            England|  FALSE|\n|1881-03-14|           Wales| Scotland|         1|         5|  Friendly|  Wrexham|              Wales|  FALSE|\n|1882-02-18|Northern Ireland|  England|         0|        13|  Friendly|  Belfast|Republic of Ireland|  FALSE|\n+----------+----------------+---------+----------+----------+----------+---------+-------------------+-------+\nonly showing top 20 rows\n\nDataFrame[tournament: string, count: bigint, percent: double]"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            {
+              "jobUrl": "http://f4a81caf1e33:4040/jobs/job?id=190",
+              "$$hashKey": "object:4846"
+            },
+            {
+              "jobUrl": "http://f4a81caf1e33:4040/jobs/job?id=191",
+              "$$hashKey": "object:4847"
+            },
+            {
+              "jobUrl": "http://f4a81caf1e33:4040/jobs/job?id=192",
+              "$$hashKey": "object:4848"
+            }
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1608966675769_25071565",
+      "id": "paragraph_1608966675769_25071565",
+      "dateCreated": "2020-12-26T07:11:15+0000",
+      "dateStarted": "2021-01-04T17:06:18+0000",
+      "dateFinished": "2021-01-04T17:06:19+0000",
+      "status": "FINISHED",
+      "focus": true,
+      "$$hashKey": "object:4623"
+    },
+    {
+      "text": "%md\n2.3.1\tPercentage of countries that have hosted more than one type of tournament.",
+      "user": "anonymous",
+      "dateUpdated": "2021-01-04T17:14:09+0000",
+      "config": {
+        "colWidth": 12,
+        "fontSize": 9,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "<div class=\"markdown-body\">\n<p>2.3.1\tPercentage of countries that have hosted more than one type of tournament.</p>\n\n</div>"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1609780412647_812213283",
+      "id": "paragraph_1609780412647_812213283",
+      "dateCreated": "2021-01-04T17:13:32+0000",
+      "dateStarted": "2021-01-04T17:14:09+0000",
+      "dateFinished": "2021-01-04T17:14:13+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:4624"
+    },
+    {
+      "text": "%pyspark\nfrom pyspark.sql.functions import col,split, explode, expr, when,countDistinct\nfrom pyspark.sql import functions as f\nfrom pyspark.sql import *\n\n#loading data\ndf = spark.read.format(\"csv\").option(\"header\", \"true\").load(\"/data/results.csv\")\ndfg=df.groupBy(\"country\",\"tournament\").count().groupBy(\"country\").count()\n\nprint(\"Types of tournaments hold by each country\")\ndfg.sort(col(\"country\").desc()).show(truncate=False)\ndfh=dfg.withColumn('cnttor',expr(\"\"\"IF(count > 1, 'moreThan1', 'lessThan1')\"\"\")).groupBy(\"cnttor\").count()\n\nprint(\"Percentage of countries that have hosted more than one type of tournament\")\ntt=dfh.groupBy().sum().collect()[0][0]\ndfh.withColumn('percent', (f.col('count')/tt)).show()\n",
+      "user": "anonymous",
+      "dateUpdated": "2021-01-04T17:12:14+0000",
+      "config": {
+        "colWidth": 12,
+        "fontSize": 9,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "Types of tournaments hold by each country\n+----------------+-----+\n|country         |count|\n+----------------+-----+\n|Éire            |1    |\n|Zimbabwe        |7    |\n|Zaïre           |3    |\n|Zanzibar        |2    |\n|Zambia          |7    |\n|Yugoslavia      |6    |\n|Yemen DPR       |2    |\n|Yemen AR        |2    |\n|Yemen           |5    |\n|Western Samoa   |2    |\n|Wales           |6    |\n|Vietnam Republic|3    |\n|Vietnam DR      |1    |\n|Vietnam         |6    |\n|Venezuela       |3    |\n|Vanuatu         |3    |\n|Uzbekistan      |3    |\n|Uruguay         |12   |\n|Upper Volta     |3    |\n|United States   |12   |\n+----------------+-----+\nonly showing top 20 rows\n\nPercentage of countries that have hosted more than one type of tournament\n+---------+-----+-------------------+\n|   cnttor|count|            percent|\n+---------+-----+-------------------+\n|lessThan1|   28|0.10526315789473684|\n|moreThan1|  238| 0.8947368421052632|\n+---------+-----+-------------------+\n\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            {
+              "jobUrl": "http://f4a81caf1e33:4040/jobs/job?id=201",
+              "$$hashKey": "object:4960"
+            },
+            {
+              "jobUrl": "http://f4a81caf1e33:4040/jobs/job?id=202",
+              "$$hashKey": "object:4961"
+            },
+            {
+              "jobUrl": "http://f4a81caf1e33:4040/jobs/job?id=203",
+              "$$hashKey": "object:4962"
+            },
+            {
+              "jobUrl": "http://f4a81caf1e33:4040/jobs/job?id=204",
+              "$$hashKey": "object:4963"
+            },
+            {
+              "jobUrl": "http://f4a81caf1e33:4040/jobs/job?id=205",
+              "$$hashKey": "object:4964"
+            },
+            {
+              "jobUrl": "http://f4a81caf1e33:4040/jobs/job?id=206",
+              "$$hashKey": "object:4965"
+            },
+            {
+              "jobUrl": "http://f4a81caf1e33:4040/jobs/job?id=207",
+              "$$hashKey": "object:4966"
+            },
+            {
+              "jobUrl": "http://f4a81caf1e33:4040/jobs/job?id=208",
+              "$$hashKey": "object:4967"
+            }
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1609776407854_22243942",
+      "id": "paragraph_1609776407854_22243942",
+      "dateCreated": "2021-01-04T16:06:47+0000",
+      "dateStarted": "2021-01-04T17:12:14+0000",
+      "dateFinished": "2021-01-04T17:12:20+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:4625"
+    },
+    {
+      "text": "%md\n2.3.2\tHistogram of the total number of matches played overtime in year granularity.",
+      "user": "anonymous",
+      "dateUpdated": "2021-01-04T17:14:57+0000",
+      "config": {
+        "colWidth": 12,
+        "fontSize": 9,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "markdown",
+          "editOnDblClick": true,
+          "completionKey": "TAB",
+          "completionSupport": false
+        },
+        "editorMode": "ace/mode/markdown",
+        "editorHide": true,
+        "tableHide": false
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "HTML",
+            "data": "<div class=\"markdown-body\">\n<p>2.3.2\tHistogram of the total number of matches played overtime in year granularity.</p>\n\n</div>"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1609780469770_1349437935",
+      "id": "paragraph_1609780469770_1349437935",
+      "dateCreated": "2021-01-04T17:14:29+0000",
+      "dateStarted": "2021-01-04T17:14:57+0000",
+      "dateFinished": "2021-01-04T17:14:57+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:4626"
+    },
+    {
+      "text": "%pyspark\nfrom pyspark.sql import *\nfrom pyspark.sql.functions import to_date, col, year\nfrom pyspark.sql.functions import unix_timestamp\n\n#loading data\ndf= spark.read.format(\"csv\").option(\"header\", \"true\").load(\"/data/results.csv\")\ndf = df.withColumn('date',to_date(unix_timestamp(col('date'), 'yyyy-MM-dd').cast(\"timestamp\")))\ndf = df.withColumn('year', year(\"date\"))\n\ndf.registerTempTable(\"bydate\")\nhistdata=spark.sql('select year from bydate')\n#histdata.collect()\n\n#subset of all year\nhistarray=histdata.rdd.map(lambda row: row.year).sample(False,0.1).collect()          #sample(False,0.1).collect()\nhistarray\n\n%matplotlib inline\nimport matplotlib.pyplot as plt\nplt.hist(histarray)\nplt.ylabel('Frequency')\nplt.xlabel('Year')\nplt.show()\n",
+      "user": "anonymous",
+      "dateUpdated": "2021-01-04T17:20:55+0000",
+      "config": {
+        "colWidth": 12,
+        "fontSize": 9,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "IMG",
+            "data": "iVBORw0KGgoAAAANSUhEUgAAAY4AAAEKCAYAAAAFJbKyAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAADl0RVh0U29mdHdhcmUAbWF0cGxvdGxpYiB2ZXJzaW9uIDMuMC4zLCBodHRwOi8vbWF0cGxvdGxpYi5vcmcvnQurowAAGHtJREFUeJzt3Xm0JnV95/H3R9p9YZGWYDekMUENOhrxikzMJEYisiQ2JupodOwgJ52MZIJLRlvNiMZxDi4T1CR6QgQFN1TUiCPRNKjxJBGwm31RuYJKtyCtIIgbIt/5o35XHtpenrp9n+XS79c5z7lVv/o9Vd8uuM/n/qrqqUpVIUnSsO4x6QIkSYuLwSFJ6sXgkCT1YnBIknoxOCRJvRgckqReDA5JUi8jC44kpyS5IcllW1j2siSVZM82nyRvTzKb5JIkBw70XZXkqvZaNap6JUnDGeWI4z3AYZs3JtkHOBT45kDz4cD+7bUaeGfruwdwPPBE4CDg+CS7j7BmSdJ2LBnViqvqC0lWbGHRicDLgU8MtK0ETqvua+znJtktyd7Ak4G1VXUjQJK1dGH0wW1te88996wVK7a0aUnS1qxfv/47VbV0e/1GFhxbkmQlsLGqLk4yuGgZcO3A/IbWtrX2La17Nd1ohX333Zd169YtYOWSdPeX5BvD9BvbyfEk9wNeBbxmFOuvqpOqaqaqZpYu3W5gSpLmaZxXVf0KsB9wcZKvA8uBC5L8ErAR2Geg7/LWtrV2SdKEjC04qurSqnpIVa2oqhV0h50OrKrrgTOBF7Srqw4Gbq6q64DPAIcm2b2dFD+0tUmSJmSUl+N+EPgi8IgkG5Ics43uZwFXA7PAPwIvAmgnxV8PfKm9/nruRLkkaTJyd3wex8zMTHlyXJL6SbK+qma2189vjkuSejE4JEm9GBySpF4MDklSL2P95rgk7SxWrPnURLb79ROOHPk2HHFIknoxOCRJvRgckqReDA5JUi8GhySpF4NDktSLwSFJ6sXgkCT1YnBIknoxOCRJvRgckqReDA5JUi8GhySpF4NDktSLwSFJ6sXgkCT1YnBIknoZWXAkOSXJDUkuG2h7c5IvJ7kkyceT7Daw7JVJZpN8JcnTBtoPa22zSdaMql5J0nBGOeJ4D3DYZm1rgUdX1WOArwKvBEhyAPAc4FHtPe9IskuSXYC/Bw4HDgCe2/pKkiZkZMFRVV8Abtys7V+q6vY2ey6wvE2vBE6vqp9U1TXALHBQe81W1dVVdRtweusrSZqQSZ7jeCHwz216GXDtwLINrW1r7b8gyeok65Ks27Rp0wjKlSTBhIIjyauB24H3L9Q6q+qkqpqpqpmlS5cu1GolSZtZMu4NJvlj4PeAQ6qqWvNGYJ+BbstbG9tol6RtWrHmU5Mu4W5prCOOJIcBLweeXlU/HFh0JvCcJPdOsh+wP3A+8CVg/yT7JbkX3Qn0M8dZsyTprkY24kjyQeDJwJ5JNgDH011FdW9gbRKAc6vqz6rq8iQfBq6gO4R1bFX9rK3nz4HPALsAp1TV5aOqWZK0fSMLjqp67haaT95G/zcAb9hC+1nAWQtYmiRpB/jNcUlSLwaHJKkXg0OS1IvBIUnqxeCQJPVicEiSejE4JEm9GBySpF4MDklSLwaHJKkXg0OS1IvBIUnqxeCQJPVicEiSejE4JEm9GBySpF4MDklSLwaHJKkXg0OS1IvBIUnqxeCQJPUysuBIckqSG5JcNtC2R5K1Sa5qP3dv7Uny9iSzSS5JcuDAe1a1/lclWTWqeiVJwxnliOM9wGGbta0Bzqmq/YFz2jzA4cD+7bUaeCd0QQMcDzwROAg4fi5sJEmTMbLgqKovADdu1rwSOLVNnwocNdB+WnXOBXZLsjfwNGBtVd1YVTcBa/nFMJIkjdG4z3HsVVXXtenrgb3a9DLg2oF+G1rb1tolSRMysZPjVVVALdT6kqxOsi7Juk2bNi3UaiVJmxl3cHy7HYKi/byhtW8E9hnot7y1ba39F1TVSVU1U1UzS5cuXfDCJUmdcQfHmcDclVGrgE8MtL+gXV11MHBzO6T1GeDQJLu3k+KHtjZJ0oQsGdWKk3wQeDKwZ5INdFdHnQB8OMkxwDeAZ7fuZwFHALPAD4GjAarqxiSvB77U+v11VW1+wl2SNEYjC46qeu5WFh2yhb4FHLuV9ZwCnLKApUmSdoDfHJck9WJwSJJ6MTgkSb0YHJKkXgwOSVIvBockqReDQ5LUi8EhSerF4JAk9WJwSJJ6MTgkSb0YHJKkXgwOSVIvBockqReDQ5LUi8EhSerF4JAk9TJUcCT5T6MuRJK0OAw74nhHkvOTvCjJriOtSJI01YYKjqr6L8DzgH2A9Uk+kOSpI61MkjSVhj7HUVVXAX8FvAL4beDtSb6c5A9GVZwkafoMe47jMUlOBK4EngL8flX9Wps+cYT1SZKmzLAjjr8FLgAeW1XHVtUFAFX1LbpRSC9JXpLk8iSXJflgkvsk2S/JeUlmk3woyb1a33u3+dm2fEXf7UmSFs6wwXEk8IGq+hFAknskuR9AVb23zwaTLAP+ApipqkcDuwDPAd4InFhVvwrcBBzT3nIMcFNrP7H1kyRNyLDBcTZw34H5+7W2+VoC3DfJkrau6+gOe53Rlp8KHNWmV7Z52vJDkmQHti1J2gHDBsd9qurWuZk2fb/5bLCqNgJvAb5JFxg3A+uB71XV7a3bBmBZm14GXNvee3vr/+D5bFuStOOGDY4fJDlwbibJ44EfzWeDSXanG0XsBzwUuD9w2HzWtdl6VydZl2Tdpk2bdnR1kqStWDJkvxcDH0nyLSDALwH/dZ7b/F3gmqraBJDkY8CTgN2SLGmjiuXAxtZ/I933Rza0Q1u7At/dfKVVdRJwEsDMzEzNszZJ0nYMFRxV9aUkjwQe0Zq+UlU/nec2vwkc3E6u/wg4BFgHfA54JnA6sAr4ROt/Zpv/Ylv+2aoyGCRpQoYdcQA8AVjR3nNgEqrqtL4brKrzkpxBd3nv7cCFdCOFTwGnJ/nfre3k9paTgfcmmQVupLsCS5I0IUMFR5L3Ar8CXAT8rDUX0Ds4AKrqeOD4zZqvBg7aQt8fA8+az3YkSQtv2BHHDHCAh4gkScNeVXUZ3QlxSdJObtgRx57AFUnOB34y11hVTx9JVZKkqTVscLx2lEVIkhaPYS/H/dckvwzsX1Vnt0tpdxltaZKkaTTsbdX/hO4+Uf/QmpYB/zSqoiRJ02vYk+PH0n27+xb4+UOdHjKqoiRJ02vY4PhJVd02N9Nu/eGluZK0Exo2OP41yavoboX+VOAjwCdHV5YkaVoNGxxrgE3ApcCfAmcxjyf/SZIWv2GvqroD+Mf2kiTtxIa9V9U1bOGcRlU9bMErkiRNtT73qppzH7qbDu6x8OVIkqbdUOc4quq7A6+NVfVW4MgR1yZJmkLDHqo6cGD2HnQjkD7P8pAk3U0M++H/fwembwe+Djx7wauRJE29Ya+q+p1RFyJJWhyGPVT10m0tr6q/WZhyJEnTrs9VVU8Azmzzvw+cD1w1iqIkSdNr2OBYDhxYVd8HSPJa4FNV9fxRFSZJmk7D3nJkL+C2gfnbWpskaScz7IjjNOD8JB9v80cBp46mJEnSNBv2C4BvAI4Gbmqvo6vq/8x3o0l2S3JGki8nuTLJf06yR5K1Sa5qP3dvfZPk7Ulmk1yy2XdKJEljNuyhKoD7AbdU1duADUn224Htvg34dFU9EngscCXdHXjPqar9gXPaPMDhwP7ttRp45w5sV5K0g4a9HPd4uiurHgG8G7gn8D66pwL2kmRX4LeAPwZoD4i6LclK4Mmt26nA54FXACuB06qqgHPbaGXvqrqu77YlTcaKNZ+adAlaQMOOOJ4BPB34AUBVfQt44Dy3uR/dsz3eneTCJO9Kcn9gr4EwuJ47T74vA64deP+G1iZJmoBhg+O29hd/AbQP+vlaAhwIvLOqHkcXRmsGOwxua1hJVidZl2Tdpk2bdqA8SdK2DBscH07yD8BuSf4EOJv5P9RpA7Chqs5r82fQBcm3k+wN0H7e0JZvBPYZeP/y1nYXVXVSVc1U1czSpUvnWZokaXuGvarqLXQf8B+lO8/xmqr62/lssKquB65N8ojWdAhwBd230le1tlXAJ9r0mcAL2tVVBwM3e35DkiZnuyfHk+wCnN1udLh2gbb7P4D3J7kXcDXdpb73oBvZHAN8gzvvvnsWcAQwC/yw9ZUkTch2g6OqfpbkjiS7VtXNC7HRqrqIuz5VcM4hW+hbwLELsV1J0o4b9pvjtwKXJllLu7IKoKr+YiRVSZKm1rDB8bH2kiTt5LYZHEn2rapvVpX3pZIkAdu/quqf5iaSfHTEtUiSFoHtBUcGph82ykIkSYvD9oKjtjItSdpJbe/k+GOT3EI38rhvm6bNV1U9aKTVSZKmzjaDo6p2GVchkqTFoc/zOCRJMjgkSf0M+wVASYucD1PSQnHEIUnqxeCQJPVicEiSejE4JEm9GBySpF4MDklSLwaHJKkXg0OS1IvBIUnqxeCQJPVicEiSeplYcCTZJcmFSf5fm98vyXlJZpN8KMm9Wvu92/xsW75iUjVLkiY74jgOuHJg/o3AiVX1q8BNwDGt/RjgptZ+YusnSZqQiQRHkuXAkcC72nyApwBntC6nAke16ZVtnrb8kNZfkjQBkxpxvBV4OXBHm38w8L2qur3NbwCWtellwLUAbfnNrb8kaQLGHhxJfg+4oarWL/B6VydZl2Tdpk2bFnLVkqQBkxhxPAl4epKvA6fTHaJ6G7BbkrkHSy0HNrbpjcA+AG35rsB3N19pVZ1UVTNVNbN06dLR/gskaSc29uCoqldW1fKqWgE8B/hsVT0P+BzwzNZtFfCJNn1mm6ct/2xV1RhLliQNmKbvcbwCeGmSWbpzGCe39pOBB7f2lwJrJlSfJIkJP3O8qj4PfL5NXw0ctIU+PwaeNdbCJElbNU0jDknSImBwSJJ6MTgkSb0YHJKkXgwOSVIvBockqReDQ5LUi8EhSerF4JAk9WJwSJJ6MTgkSb0YHJKkXgwOSVIvBockqReDQ5LUi8EhSeplog9yknZGK9Z8atIlSDvEEYckqReDQ5LUi8EhSerF4JAk9WJwSJJ6GXtwJNknyeeSXJHk8iTHtfY9kqxNclX7uXtrT5K3J5lNckmSA8ddsyTpTpMYcdwOvKyqDgAOBo5NcgCwBjinqvYHzmnzAIcD+7fXauCd4y9ZkjRn7MFRVddV1QVt+vvAlcAyYCVwaut2KnBUm14JnFadc4Hdkuw95rIlSc1Ez3EkWQE8DjgP2KuqrmuLrgf2atPLgGsH3rahtUmSJmBiwZHkAcBHgRdX1S2Dy6qqgOq5vtVJ1iVZt2nTpgWsVJI0aCLBkeSedKHx/qr6WGv+9twhqPbzhta+Edhn4O3LW9tdVNVJVTVTVTNLly4dXfGStJObxFVVAU4GrqyqvxlYdCawqk2vAj4x0P6CdnXVwcDNA4e0JEljNombHD4J+G/ApUkuam2vAk4APpzkGOAbwLPbsrOAI4BZ4IfA0eMtV5I0aOzBUVX/BmQriw/ZQv8Cjh1pUZKkofnNcUlSLwaHJKkXg0OS1IvBIUnqxeCQJPXiM8e1U/K539L8OeKQJPVicEiSevFQlSbKQ0bS4uOIQ5LUi8EhSerF4JAk9WJwSJJ6MTgkSb0YHJKkXrwcV4CXxUoaniMOSVIvBockqReDQ5LUi8EhSerF4JAk9WJwSJJ6WTSX4yY5DHgbsAvwrqo6YcIlLTgviZW0GCyKEUeSXYC/Bw4HDgCem+SAyVYlSTunxTLiOAiYraqrAZKcDqwErhjFxvzLX5K2blGMOIBlwLUD8xtamyRpzBbLiGO7kqwGVrfZW5N8ZWDxnsB3xl/VDlmMNcPirNuax8OaxyBv3KGaf3mYToslODYC+wzML29tP1dVJwEnbenNSdZV1czoylt4i7FmWJx1W/N4WPN4jKPmxXKo6kvA/kn2S3Iv4DnAmROuSZJ2SotixFFVtyf5c+AzdJfjnlJVl0+4LEnaKS2K4ACoqrOAs+b59i0ewppyi7FmWJx1W/N4WPN4jLzmVNWotyFJuhtZLOc4JElTYtEGR5JTktyQ5LKBtl9Pcm6Si5KsS3JQa981ySeTXJzk8iRHD7xnVZKr2mvVBGp+bJIvJrm01figgWWvTDKb5CtJnjbQflhrm02yZlpqTvLUJOtb+/okTxl4z+Nb+2yStyfJNNQ8sHzfJLcm+cuBtqncz23ZY9qyy9vy+7T2qdzPSe6Z5NTWfmWSVw68Z5z7eZ8kn0tyRdt3x7X2PZKsbZ8Da5Ps3trT9uNskkuSHDiwrrF8dsyj5ue1Wi9N8h9JHjuwroXZ11W1KF/AbwEHApcNtP0LcHibPgL4fJt+FfDGNr0UuBG4F7AHcHX7uXub3n3MNX8J+O02/ULg9W36AOBi4N7AfsDX6C4M2KVNP6z9Gy4GDpiSmh8HPLRNPxrYOPCe84GDgQD/PPffadI1Dyw/A/gI8Jdtfpr38xLgEuCxbf7BwC7TvJ+BPwJOb9P3A74OrJjAft4bOLBNPxD4avtdexOwprWv4c7PiyPafkzbr+e19rF9dsyj5t+Yq4XuNk1zNS/Yvl60I46q+gJdANylGZj7q2xX4FsD7Q9sf309oL3vduBpwNqqurGqbgLWAoeNueaHA19o02uBP2zTK+l+0X5SVdcAs3S3Xvn57Veq6jZg7vYrE6+5qi6sqrl9fjlw3yT3TrI38KCqOre6/4NPA46ahpoBkhwFXNNqnjO1+xk4FLikqi5u7/1uVf1syvdzAfdPsgS4L3AbcAvj38/XVdUFbfr7wJV0d6FYCZzaup3KnfttJXBadc4Fdmv7eWyfHX1rrqr/aDUBnEv3vTdYwH29aINjK14MvDnJtcBbgLnh8N8Bv0YXJJcCx1XVHUzHrUwu587/eM/izi86bq22aa550B8CF1TVT+jq2zCwbGpqTvIA4BXA6zbrP837+eFAJflMkguSvLy1T+1+phvR/QC4Dvgm8JaqupEJ7uckK+hGyecBe1XVdW3R9cBebXqqfg+HrHnQMXQjJljAmu9uwfHfgZdU1T7AS4CTW/vTgIuAhwK/Dvzd5se4J+iFwIuSrKcbht424XqGsc2akzwKeCPwpxOobWu2VvNrgROr6tZJFbYNW6t5CfCbwPPaz2ckOWQyJf6CrdV8EPAzut/B/YCXJXnYZEr8+R8MHwVeXFW3DC5ro7Wpu9y0b81JfocuOF6x0LUsmu9xDGkVcFyb/gjwrjZ9NHBC27mzSa4BHkl325InD7x/OfD5sVTaVNWX6Q49kOThwJFt0bZus7LN26+M2jZqJsly4OPAC6rqa615I3cOl2G6an4i8MwkbwJ2A+5I8mNgPdO7nzcAX6iq77RlZ9Gda3gf07uf/wj4dFX9FLghyb8DM3R/AY91Pye5J90H8Pur6mOt+dtJ9q6q69qhqBta+9Z+D8f62dGzZpI8hu7z7/Cq+m5r3u6tm4Y2ipM543rRnVwbPDF3JfDkNn0IsL5NvxN4bZveq+2sPelObF1Dd3Jr9za9x5hrfkj7eQ+6Y9IvbPOP4q4nx6+mO7m1pE3vx50nuB41JTXv1ur5gy2sY/OTtkdMQ82bvee13HlyfJr38+7ABXQnmZcAZwNHTvN+pvur991t+v50j0R4zLj3c9svpwFv3az9zdz1RPOb2vSR3PXk+PmtfWyfHfOoeV+6c6K/sVn/BdvXI/sfatQv4IN0x0t/SvcX2DF0w/b1bYecBzy+9X0o3RVXlwKXAc8fWM8L206eBY6eQM3H0V0l8VXgBNqXMlv/V9NdBfEVBq6OobvS46tt2aunpWbgr+iOY1808Jr7IJlp+/5rdOecMg01b/a+19KCY5r3c+v/fLrzCZfNfWBM836muyjlI63mK4D/OaH9/Jt0h3QuGfh/9Ai6K9POAa6iC+I9Wv/QPUTua3SfHzMD6xrLZ8c8an4XcNNA33ULva/95rgkqZe728lxSdKIGRySpF4MDklSLwaHJKkXg0OS1IvBIS2AdhfVf0ty+EDbs5J8epJ1SaPg5bjSAknyaLrvKjyO7stWFwKH1Z3foJ/POpdU1e0LVKK0IBxxSAukqi4DPkn3LenX0N1V9WvtuQ3np3tOzDuS3AMgyUnpnhtzeZLXzK0nyYYkJyS5EHjGRP4x0jbc3e5VJU3a6+huB3IbMNNGIc+gu/3D7UlOAp4DfIDudhE3tluNfy7JGVV1RVvPDVX1uEn8A6TtMTikBVRVP0jyIeDWqvpJkt8FngCs6x4Hw32589bWz01yDN3v4UPpHs4zFxwfGm/l0vAMDmnh3dFe0N3r6JSq+l+DHZLsT3dfp4Oq6ntJ3gfcZ6DLD8ZSqTQPnuOQRuts4NlJ9gRI8uAk+9I9qfL7wC0DT5STFgVHHNIIVdWlSV4HnN1Oiv8U+DNgHd1hqS8D3wD+fXJVSv14Oa4kqRcPVUmSejE4JEm9GBySpF4MDklSLwaHJKkXg0OS1IvBIUnqxeCQJPXy/wGbPL3G0vnjBwAAAABJRU5ErkJggg==\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            {
+              "jobUrl": "http://f4a81caf1e33:4040/jobs/job?id=212",
+              "$$hashKey": "object:5097"
+            },
+            {
+              "jobUrl": "http://f4a81caf1e33:4040/jobs/job?id=213",
+              "$$hashKey": "object:5098"
+            }
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1608967316570_1774660360",
+      "id": "paragraph_1608967316570_1774660360",
+      "dateCreated": "2020-12-26T07:21:56+0000",
+      "dateStarted": "2021-01-04T17:20:55+0000",
+      "dateFinished": "2021-01-04T17:20:56+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:4627"
+    },
+    {
+      "text": "%pyspark\nfrom pyspark.sql.functions import col,split, explode, expr, when,countDistinct\nfrom pyspark.sql import functions as f\n\n#loading data\ndf= spark.read.format(\"csv\").option(\"header\", \"true\").load(\"/data/results.csv\")\ndf=df.withColumn('diff', col('home_score')-col('away_score'))\n\n#+------+------------+------------+\n#| diff | winteam    | lostteam   |\n#+-------------------+------------+\n#|   +  | home_team  |  away_team |\n#|   -  | away_team  | home_team  |\n#|   0  |   'draw'   |   'draw'   |\n\ndf=df.withColumn('winteam',expr(\"\"\"IF(diff > 0, home_team, IF(diff < 0, away_team, 'draw'))\"\"\")).withColumn('lostteam',expr(\"\"\"IF(diff > 0, away_team, IF(diff < 0, home_team, 'draw'))\"\"\"))\nteams_win = df.groupBy(\"winteam\").count().withColumnRenamed(\"winteam\", \"team\").withColumnRenamed(\"count\", \"wincount\")\nteams_lost = df.groupBy(\"lostteam\").count().withColumnRenamed(\"lostteam\", \"team\").withColumnRenamed(\"count\", \"lostcount\")\nteam_draw=df.filter(df.diff == 0).select((f.concat_ws('-', df['home_team'],df['away_team']).alias(\"team\"))).withColumn('team',explode(split('team','-'))).groupBy(\"team\").count()\n\ndf_total=teams_win.join(teams_lost,on=['team'],how='outer').join(team_draw,on=['team'],how='outer').show()",
+      "user": "anonymous",
+      "dateUpdated": "2021-01-04T17:04:54+0000",
+      "config": {
+        "colWidth": 12,
+        "fontSize": 9,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "SUCCESS",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "+-------------------+--------+---------+-----+\n|               team|wincount|lostcount|count|\n+-------------------+--------+---------+-----+\n|            Kabylia|       1|        3|    2|\n|               Chad|      25|       62|   28|\n|             Kernow|       6|        3|    2|\n|           Provence|       4|       12|    1|\n|           Anguilla|       3|       53|    5|\n|           Paraguay|     255|      273|  188|\n|             Russia|     358|      156|  182|\n|             Bissau|    null|     null|   31|\n|      South Ossetia|       4|        7|    3|\n|U.S. Virgin Islands|       7|       41|    6|\n|              Yemen|      45|      138|   43|\n|     Chinese Taipei|      38|       90|   21|\n|             Madrid|    null|        1| null|\n|            Senegal|     233|      154|  142|\n|              Frøya|       6|       22|    2|\n|             Sweden|     500|      295|  225|\n|           Kiribati|    null|       10|    1|\n|       Two Sicilies|       1|        3| null|\n|           Ynys Môn|      32|       18|   11|\n|             Guyana|      81|      129|   54|\n+-------------------+--------+---------+-----+\nonly showing top 20 rows\n\n"
+          }
+        ]
+      },
+      "apps": [],
+      "runtimeInfos": {
+        "jobUrl": {
+          "propertyName": "jobUrl",
+          "label": "SPARK JOB",
+          "tooltip": "View in Spark web UI",
+          "group": "spark",
+          "values": [
+            {
+              "jobUrl": "http://f4a81caf1e33:4040/jobs/job?id=411",
+              "$$hashKey": "object:5160"
+            },
+            {
+              "jobUrl": "http://f4a81caf1e33:4040/jobs/job?id=412",
+              "$$hashKey": "object:5161"
+            },
+            {
+              "jobUrl": "http://f4a81caf1e33:4040/jobs/job?id=413",
+              "$$hashKey": "object:5162"
+            },
+            {
+              "jobUrl": "http://f4a81caf1e33:4040/jobs/job?id=414",
+              "$$hashKey": "object:5163"
+            }
+          ],
+          "interpreterSettingId": "spark"
+        }
+      },
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1609033798775_2135540884",
+      "id": "paragraph_1609033798775_2135540884",
+      "dateCreated": "2020-12-27T01:49:58+0000",
+      "dateStarted": "2020-12-27T05:17:54+0000",
+      "dateFinished": "2020-12-27T05:17:57+0000",
+      "status": "FINISHED",
+      "$$hashKey": "object:4628"
+    },
+    {
+      "text": "%pyspark\n",
+      "user": "anonymous",
+      "dateUpdated": "2020-12-27T04:43:53+0000",
+      "config": {
+        "colWidth": 12,
+        "fontSize": 9,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "python",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/python"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "runtimeInfos": {},
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1609044233755_867349444",
+      "id": "paragraph_1609044233755_867349444",
+      "dateCreated": "2020-12-27T04:43:53+0000",
+      "status": "READY",
+      "$$hashKey": "object:4629"
+    }
+  ],
+  "name": "bdpCW",
+  "id": "2FSN42DXK",
+  "defaultInterpreterGroup": "spark",
+  "version": "0.9.0-preview2",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {},
+  "config": {
+    "isZeppelinNotebookCronEnable": false,
+    "looknfeel": "default",
+    "personalizedMode": "false"
+  },
+  "info": {},
+  "path": "/bdpCW"
+}
